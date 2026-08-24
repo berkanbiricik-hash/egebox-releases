@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "mandatory": false,
-  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.1.0/EGEBOX_Update_1.1.0.zip",
-  "sha256": "68d2470a0206c5bc0fc9fc596b782dee85a7ae6dcf260a7c365bc8116890e8c5",
-  "notes_tr": "Aylık satış raporu ve otomatik güncelleme sistemi.",
-  "notes_sr": "Mesečni izveštaj prodaje i sistem automatskog ažuriranja."
+  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.1.1/EGEBOX_Update_1.1.1.zip",
+  "sha256": "85a8da583e7eb988b7637ab8afc02ec86d6b0206cab7d481b8af96393939b3b2",
+  "notes_tr": "Google değerlendirme QR alanı ve teslim sonrası yorum isteme akışı eklendi.",
+  "notes_sr": "Dodat je Google QR za recenzije i zahtev za recenziju nakon isporuke."
 }

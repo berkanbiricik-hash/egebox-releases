@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "mandatory": false,
+  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.1.0/EGEBOX_Update_1.1.0.zip",
+  "sha256": "68d2470a0206c5bc0fc9fc596b782dee85a7ae6dcf260a7c365bc8116890e8c5",
+  "notes_tr": "Aylık satış raporu ve otomatik güncelleme sistemi.",
+  "notes_sr": "Mesečni izveštaj prodaje i sistem automatskog ažuriranja."
+}

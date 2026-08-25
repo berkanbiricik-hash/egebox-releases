@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.3",
   "mandatory": false,
-  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.1.1/EGEBOX_Update_1.1.1.zip",
-  "sha256": "3734a1c4254c05dd5bf1edee488d64da9a58ef0a83889884892d42d12d141a39",
-  "notes_tr": "Google değerlendirme QR alanı ve teslim sonrası yorum isteme akışı eklendi.",
-  "notes_sr": "Dodat je Google QR za recenzije i zahtev za recenziju nakon isporuke."
+  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.1.3/EGEBOX_Setup_1.1.3.exe",
+  "sha256": "bb3b67a605d89e46a5bedb7fc472fe1d28be7810bc3bd92fd8109cbdc4d8eb1f",
+  "notes_tr": "Güvenilir installer güncellemesi.",
+  "notes_sr": "Pouzdano ažuriranje putem instalera."
 }

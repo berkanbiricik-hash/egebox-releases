@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "mandatory": false,
-  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.2.0/EGEBOX_Setup_1.2.0.exe",
-  "sha256": "a06b8eb0fe4763ee95ba6d277c97d0ab0051191ac616bd6f8f7106372c848ae0",
+  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.2.1/EGEBOX_Setup_1.2.1.exe",
+  "sha256": "cf1506832c0a8f7d133bcf00de0738b124c8dd66340c3948e3d949db0c42e87b",
   "notes_tr": "Güvenilir installer güncellemesi.",
   "notes_sr": "Pouzdano ažuriranje putem instalera."
 }

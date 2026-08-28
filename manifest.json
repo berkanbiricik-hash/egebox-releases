@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "mandatory": false,
-  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.2.5/EGEBOX_Setup_1.2.5.exe",
-  "sha256": "08c56022d65b26e390e97205cac61314d284e568c5619f72a596dbed1421c809",
-  "notes_tr": "Teklif listesi anlık yenileme hotfix sürümü.",
-  "notes_sr": "Hitna ispravka osvežavanja liste ponuda."
+  "download_url": "https://github.com/berkanbiricik-hash/egebox-releases/releases/download/v1.2.6/EGEBOX_Setup_1.2.6.exe",
+  "sha256": "bf2c11961c43783a1a176e5b024ff888baff958e0367a7bf38ebdcc5c86a74d5",
+  "notes_tr": "Performans ve arayüz yenileme iyileştirmeleri.",
+  "notes_sr": "Poboljšanja performansi i osvežavanja interfejsa."
 }
